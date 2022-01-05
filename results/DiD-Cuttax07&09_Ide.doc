@@ -1,0 +1,55 @@
+{\rtf1\fs24
+\pard\qc
+Table 1.1 - Support for Cutting Taxes by Ideology group (H.E. model), 2007 & 2009\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx3024\clbrdrt\brdrs\cellx4320\clbrdrt\brdrs\cellx5616\clbrdrt\brdrs\cellx6912\clbrdrt\brdrs\cellx8496\clbrdrt\brdrs\cellx10080\clbrdrt\brdrs\cellx11664
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\qc (5)\cell\qc (6)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3024\cellx4320\cellx5616\cellx6912\cellx8496\cellx10080\cellx11664
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx3024\clbrdrb\brdrs\cellx4320\clbrdrb\brdrs\cellx5616\clbrdrb\brdrs\cellx6912\clbrdrb\brdrs\cellx8496\clbrdrb\brdrs\cellx10080\clbrdrb\brdrs\cellx11664
+\ql VARIABLES\cell\qc Left\cell\qc Center\cell\qc Right\cell\qc Left\cell\qc Center\cell\qc Right\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3024\cellx4320\cellx5616\cellx6912\cellx8496\cellx10080\cellx11664
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql ecrisis\cell\qc 0.0632\cell\qc 0.108\cell\qc -0.403**\cell\qc 0.0645\cell\qc 0.145\cell\qc -0.376**\cell\row
+\ql \cell\qc (0.226)\cell\qc (0.214)\cell\qc (0.124)\cell\qc (0.223)\cell\qc (0.242)\cell\qc (0.118)\cell\row
+\ql 2.chng_fin\cell\qc \cell\qc \cell\qc \cell\qc -0.0398\cell\qc -0.0341\cell\qc -0.0742\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0685)\cell\qc (0.0681)\cell\qc (0.0585)\cell\row
+\ql 3.chng_fin\cell\qc \cell\qc \cell\qc \cell\qc -0.0937\cell\qc -0.00660\cell\qc 0.0671\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0908)\cell\qc (0.0738)\cell\qc (0.0665)\cell\row
+\ql 2.fut_fin\cell\qc \cell\qc \cell\qc \cell\qc 0.179**\cell\qc -0.0602\cell\qc -0.0307\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0565)\cell\qc (0.0762)\cell\qc (0.0779)\cell\row
+\ql 3.fut_fin\cell\qc \cell\qc \cell\qc \cell\qc 0.155*\cell\qc 0.0574\cell\qc 0.116\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0713)\cell\qc (0.0842)\cell\qc (0.0717)\cell\row
+\ql age\cell\qc \cell\qc \cell\qc \cell\qc -0.00623\cell\qc -0.00844\cell\qc -0.0101\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0106)\cell\qc (0.00821)\cell\qc (0.00528)\cell\row
+\ql agesqr\cell\qc \cell\qc \cell\qc \cell\qc 7.70e-05\cell\qc 4.97e-05\cell\qc 0.000145**\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.000104)\cell\qc (9.11e-05)\cell\qc (4.95e-05)\cell\row
+\ql female\cell\qc \cell\qc \cell\qc \cell\qc 0.0325\cell\qc 0.0270\cell\qc -0.0245\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0459)\cell\qc (0.0459)\cell\qc (0.0270)\cell\row
+\ql edu2\cell\qc \cell\qc \cell\qc \cell\qc -0.370***\cell\qc -0.242***\cell\qc -0.0605\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0586)\cell\qc (0.0647)\cell\qc (0.0403)\cell\row
+\ql 2.inchigh\cell\qc \cell\qc \cell\qc \cell\qc -0.173**\cell\qc -0.0474\cell\qc 0.0227\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0613)\cell\qc (0.0657)\cell\qc (0.0605)\cell\row
+\ql 3.inchigh\cell\qc \cell\qc \cell\qc \cell\qc -0.0812\cell\qc -0.194*\cell\qc -0.0234\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0719)\cell\qc (0.0834)\cell\qc (0.0574)\cell\row
+\ql 4.inchigh\cell\qc \cell\qc \cell\qc \cell\qc -0.137\cell\qc -0.188*\cell\qc -0.0278\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0716)\cell\qc (0.0755)\cell\qc (0.0601)\cell\row
+\ql 2.class3\cell\qc \cell\qc \cell\qc \cell\qc -0.123*\cell\qc -0.138**\cell\qc -0.00426\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0539)\cell\qc (0.0516)\cell\qc (0.0515)\cell\row
+\ql 3.class3\cell\qc \cell\qc \cell\qc \cell\qc 0.250\cell\qc 0.0897\cell\qc 0.125\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.166)\cell\qc (0.106)\cell\qc (0.0630)\cell\row
+\ql unemploy\cell\qc \cell\qc \cell\qc \cell\qc -0.00340\cell\qc -0.0722\cell\qc 0.0702\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.110)\cell\qc (0.128)\cell\qc (0.134)\cell\row
+\ql Constant\cell\qc 3.003***\cell\qc 3.796***\cell\qc 3.972***\cell\qc 3.249***\cell\qc 4.277***\cell\qc 4.112***\cell\row
+\ql \cell\qc (0.0472)\cell\qc (0.0496)\cell\qc (0.0292)\cell\qc (0.250)\cell\qc (0.215)\cell\qc (0.133)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 2,138\cell\qc 1,871\cell\qc 2,295\cell\qc 1,921\cell\qc 1,588\cell\qc 2,093\cell\row
+\ql R-squared\cell\qc 0.033\cell\qc 0.032\cell\qc 0.022\cell\qc 0.089\cell\qc 0.069\cell\qc 0.043\cell\row
+\ql Number of mun_number\cell\qc 50\cell\qc 50\cell\qc 50\cell\qc 50\cell\qc 50\cell\qc 50\cell\row
+\ql Indiv. Controls\cell\qc no\cell\qc no\cell\qc no\cell\qc yes\cell\qc yes\cell\qc yes\cell\row
+\ql Municipal FE\cell\qc yes\cell\qc yes\cell\qc yes\cell\qc yes\cell\qc yes\cell\qc yes\cell\row
+\ql Year FE\cell\qc yes\cell\qc yes\cell\qc yes\cell\qc yes\cell\qc yes\cell\qc yes\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx3024\clbrdrb\brdrs\cellx4320\clbrdrb\brdrs\cellx5616\clbrdrb\brdrs\cellx6912\clbrdrb\brdrs\cellx8496\clbrdrb\brdrs\cellx10080\clbrdrb\brdrs\cellx11664
+\ql Cluster RSE\cell\qc yes\cell\qc yes\cell\qc yes\cell\qc yes\cell\qc yes\cell\qc yes\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.001, ** p<0.01, * p<0.05\par
+}

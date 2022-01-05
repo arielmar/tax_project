@@ -1,0 +1,50 @@
+Table 2 - Support for Raising Taxes instead of Reducing services (Diff-in-Diff model), 2007 & 2009				
+	(1)	(2)	(3)	(4)
+VARIABLES	1	2	3	4
+				
+ecrisis	0.124***	0.111	0.0505	0.0174
+	(0.0242)	(0.116)	(0.122)	(0.113)
+1.left_right3				-0.507***
+				(0.0368)
+2.left_right3				-0.745***
+				(0.0590)
+2.chng_fin			0.0443	0.0448
+			(0.0300)	(0.0301)
+3.chng_fin			0.0188	0.0413
+			(0.0420)	(0.0367)
+2.fut_fin			0.0291	0.0895
+			(0.0526)	(0.0461)
+3.fut_fin			-0.0852*	0.00655
+			(0.0423)	(0.0461)
+age			0.0159***	0.0105**
+			(0.00385)	(0.00371)
+agesqr			-0.000149***	-8.48e-05*
+			(3.68e-05)	(3.48e-05)
+female			0.157***	0.143***
+			(0.0284)	(0.0299)
+edu2			0.00475	-0.0143
+			(0.0375)	(0.0327)
+2.inchigh			-0.0122	0.00315
+			(0.0339)	(0.0364)
+3.inchigh			0.0163	0.0428
+			(0.0331)	(0.0287)
+4.inchigh			-0.130**	-0.0521
+			(0.0420)	(0.0443)
+2.class3			-0.0759**	0.00396
+			(0.0279)	(0.0315)
+3.class3			-0.346***	-0.147**
+			(0.0435)	(0.0472)
+unemploy			-0.0661	-0.0516
+			(0.0860)	(0.0877)
+Constant	3.347***	3.333***	2.940***	3.307***
+	(0.0195)	(0.0244)	(0.121)	(0.120)
+				
+Observations	6,418	6,418	5,695	5,596
+R-squared		0.004	0.028	0.113
+Number of mun_number	50	50	50	50
+Indiv. Controls	no	no	yes	yes
+Municipal FE	no	yes	yes	yes
+Year FE	no	yes	yes	yes
+Cluster RSE	no	yes	yes	yes
+Standard errors in parentheses				
+*** p<0.001, ** p<0.01, * p<0.05				
