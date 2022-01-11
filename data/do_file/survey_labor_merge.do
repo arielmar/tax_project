@@ -48,7 +48,7 @@ sort mun_number year
 
 
 *--------------------------------------
-*save file as: "WSOM_2005to2011.dta"
+*save file as: "WSOM_2005to2010.dta"
 *--------------------------------------
 cd "/Users/youngster/Documents/GitHub/tax_project/data/dta"
 save "WSOM_2005to2010", replace
