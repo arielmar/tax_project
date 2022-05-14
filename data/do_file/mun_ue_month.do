@@ -20,7 +20,7 @@ drop GZ
 * describe data among different variables
 describe
 
-
+set more off
 /*
 Need to run the ds, has code so that I can shorten my work and use `r(varlist)'
 The ds command compactly lists variables with specified properties, in this case
@@ -51,7 +51,7 @@ foreach v in `r(varlist)' {
   replace `v' = "UE" + `v' if _n == 1
 }
 
-*install stata module to quickly rename rows.
+*install stata module to quickly rename rows, and convert 1st row to variable name
 ssc install nrow
 nrow
 
