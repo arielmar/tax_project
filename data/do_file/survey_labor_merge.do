@@ -90,10 +90,11 @@ sort mun_number year
 destring ipnr, replace
 
 
+*check for unique individual observations by municipality
 describe
 bysort mun_number: gen uniq_mun = _n
 sum mun_number if uniq_mun==1
-*should be 50
+
 
 
 *--------------------------------------------
